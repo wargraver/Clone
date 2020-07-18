@@ -1,0 +1,19 @@
+.banner{
+    color:white;
+    object-fit: contain;
+    height:600px;
+}
+.banner_cont{
+   margin-left: 0px;
+   padding-right:1100px;
+   padding-top:100px;
+   height:190px;
+}
+.text{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color:white;
+}
+.shade{
+    height:400px;
+    background-image: linear-gradient(180deg,transparent,rgba(37,37,37,0.61),#111);
+}
